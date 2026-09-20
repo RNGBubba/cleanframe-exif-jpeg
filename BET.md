@@ -8,7 +8,7 @@ Price: free/open-source; optional support or custom packaging can be offered lat
 
 Human click: a user must choose and run the command locally; no credentials, network service, or automatic upload is involved.
 
-GitHub: pending publication after tests and DoneMeans receipt verification.
+GitHub: https://github.com/RNGBubba/cleanframe-exif-jpeg
 
 Artifact: `cleanframe/cli.py` with pytest regression coverage in `tests/test_cli.py`.
 
