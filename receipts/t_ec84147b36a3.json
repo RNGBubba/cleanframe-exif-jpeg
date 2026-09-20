@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "ticket_id": "t_ec84147b36a3",
+  "code_sha": "dcbd68444224752c4bc7b10bb197f171781b761f",
+  "command": "uv run pytest -q",
+  "exit_code": 0,
+  "artifact": {
+    "path": "BET.md",
+    "sha256": "299c9108439db796cb25e77de60e4cf61303f3eb5de9c0363a3699c0d1aba327",
+    "bytes": 975
+  },
+  "recorded_at": "2026-09-20T23:26:24+00:00"
+}
